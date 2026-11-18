@@ -1,6 +1,0 @@
-node_modules/
-.venv/
-motor/public/_in_*/
-__pycache__/
-
-.DS_Store
