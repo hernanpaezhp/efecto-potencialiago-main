@@ -1,8 +1,8 @@
 {
-  "name": "efectos-potencialiago",
+  "name": "efectos-converzzo",
   "owner": {
-    "name": "PotencialiaGO",
-    "url": "https://instagram.com/potencialiago"
+    "name": "converzzo",
+    "url": "https://instagram.com/converzzo"
   },
   "metadata": {
     "description": "Plugin gratuito de PotencialiaGO: efectos de video, motion graphics y edición con Claude."
@@ -14,7 +14,7 @@
       "description": "56 efectos de video para Reels, TikTok y YouTube que Claude aplica por ti: zooms, looks de color, transiciones, cámara lenta, motion graphics, tracking y recorte con IA (pixelar, lupa, foco, sticker, quitar fondo, pantalla verde), estabilizar, zoom al ritmo, parallax 3D y gráficos para negocios. Vertical, horizontal, cuadrado o 4:5. Gratis, por @converzzo.",
       "version": "1.9.0",
       "author": {
-        "name": "PotencialiaGo"
+        "name": "converzzo"
       },
       "license": "MIT",
       "keywords": [
