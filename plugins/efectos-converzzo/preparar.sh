@@ -3,7 +3,7 @@
 # La primera vez (o cuando el plugin se actualiza) copia el motor e instala lo necesario; después responde LISTO al instante.
 set -e
 PLUGIN="$(cd "$(dirname "$0")" && pwd)"
-DEST="$HOME/.claude/efectos-converzzo"
+DEST="$HOME/.claude/efectos-potencialiago"
 VERSION="$(cat "$PLUGIN/VERSION")"
 if [ -f "$DEST/VERSION" ] && [ "$(cat "$DEST/VERSION")" = "$VERSION" ] && [ -f "$HOME/.claude/efectos-converzzo.ruta" ] \
    && [ -d "$DEST/motor/node_modules" ] && [ -d "$DEST/motor/.venv" ]; then
