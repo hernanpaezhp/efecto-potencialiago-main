@@ -1,0 +1,27 @@
+{
+  "name": "efectos-converzzo",
+  "owner": {
+    "name": "Converzzo",
+    "url": "https://instagram.com/converzzo"
+  },
+  "metadata": {
+    "description": "Plugin gratuito de Converzzo: efectos de video, motion graphics y edición con Claude."
+  },
+  "plugins": [
+    {
+      "name": "efectos-converzzo",
+      "source": "./plugins/efectos-converzzo",
+      "description": "56 efectos de video para Reels, TikTok y YouTube que Claude aplica por ti: zooms, looks de color, transiciones, cámara lenta, motion graphics, tracking y recorte con IA (pixelar, lupa, foco, sticker, quitar fondo, pantalla verde), estabilizar, zoom al ritmo, parallax 3D y gráficos para negocios. Vertical, horizontal, cuadrado o 4:5. Gratis, por @converzzo.",
+      "version": "1.9.0",
+      "author": {
+        "name": "Converzzo"
+      },
+      "license": "MIT",
+      "keywords": [
+        "video",
+        "reels",
+        "efectos"
+      ]
+    }
+  ]
+}
